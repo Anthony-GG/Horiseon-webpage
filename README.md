@@ -14,7 +14,7 @@ To look at the source code, open it and the CSS file in a text file editor of ch
 ## Mockup:
 The following image shows the web application's appearance and functionality:
 
-![alt text](./Assets/01-html-css-git-homework-demo.png)
+![alt text](./assets/01-html-css-git-homework-demo.png)
 
 ## Changelog:
 
