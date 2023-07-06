@@ -38,7 +38,8 @@ The following image shows the web application's appearance and functionality:
  <br>
  <br>
  Lesson provided by <b>edX Boot Camps LLC.</b>
-<br>
+
+## Link to Deployed Page
  https://anthony-gg.github.io/code-refactor-module-1/
 
 
