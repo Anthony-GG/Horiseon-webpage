@@ -1,4 +1,4 @@
-# CWRU Bootcamp Challenge 1 - Horiseon Code Refactor
+# CWRU Bootcamp Challenge 1 - Horiseon Webpage (Code Refactor)
 
 ## Description
 
