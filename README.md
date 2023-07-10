@@ -40,7 +40,7 @@ The following image shows the web application's appearance and functionality:
  Lesson provided by <b>edX Boot Camps LLC.</b>
 
 ## Link to Deployed Page
- https://anthony-gg.github.io/code-refactor-module-1/
+ https://anthony-gg.github.io/Horiseon-webpage/
 
 
 
